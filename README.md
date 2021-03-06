@@ -24,13 +24,13 @@ For this project, I was working to understand the results of an A/B test run by 
 
 The dataset  reflecting data collected from an experiment is provided. The statistical techniques to answer questions about the data and to report 
 conclusions are used.
-##Part I - Probability
+## Part I - Probability
 Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
 
 ## Part II - A/B Test
 The A/B testing was conducted assuming the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%. The data was bootstrapped and sampling distributions were determined for both pages. Conclusions were drawn on conversions for both pages by calculating p-values.
 
-Part III - Regression
+## Part III - Regression
 Logistic regression was then performed to confirm results of the previous steps. Null and alternative hypotheses associated with this regression model were stated and verified using statsmodel.
 
 ## Results
