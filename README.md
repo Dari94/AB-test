@@ -1,6 +1,6 @@
-# AB-test
-### Udacity Data Analyst Nanodegree
-### Project III: Analyze A/B Test Results
+
+                                          ### Udacity Data Analyst Nanodegree
+                                         ### Project III: Analyze A/B Test Results
 ### Table of contents
 * [Setup](#setup)
 * [Project Overview](#Project)
