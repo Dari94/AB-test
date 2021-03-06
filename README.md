@@ -4,11 +4,10 @@
 ### Table of contents
 * [Setup](#setup)
 * [Project Overview](#Project)
-*    [Probability](#Part I - Probability)
-*    [A/B Test](#Part II - A/B Test)
-*    [Regression](#Part III - Regression)
-
-*[Results](#Results)
+* [Part I - Probability](#Probability)
+* [Part II - A/B Test](#A/B Test)
+* [Part III - Regression](#Regression)
+* [Results](#Results)
 
 ## Setup
 The project is created on Jupyter Notebook. The following packages are installed. These packages can be installed via conda or pip.
