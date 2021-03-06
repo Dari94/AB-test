@@ -3,7 +3,7 @@
 ### Project III: Analyze A/B Test Results
 ### Table of contents
 * [Setup](#setup)
-* [Project](#Project Overview)
+* [Project](#Project)
 *    [Part I - Probability](#Part I - Probability)
 *    [Part II - A/B Test](#Part II - A/B Test)
 *    [Part III - Regression](#Part III - Regression)
