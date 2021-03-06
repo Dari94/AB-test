@@ -1,13 +1,13 @@
 # AB-test
-## Udacity Data Analyst Nanodegree
-## Project III: Analyze A/B Test Results
-## Table of contents
+### Udacity Data Analyst Nanodegree
+### Project III: Analyze A/B Test Results
+### Table of contents
 * [Setup](#setup)
-* [Project Overview]
-*    [Part I - Probability]
-*    [Part II - A/B Test]
-*    [Part III - Regression]
-*[Results]
+* [Project Overview](#Project Overview)
+*    [Part I - Probability](#Part I - Probability)
+*    [Part II - A/B Test](#Part II - A/B Test)
+*    [Part III - Regression](#Part III - Regression)
+*[Results](#Results])
 
 ##Setup
 The project is created on Jupyter Notebook. The following packages are installed. These packages can be installed via conda or pip.
