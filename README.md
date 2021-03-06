@@ -5,7 +5,7 @@
 * [Setup](#setup)
 * [Project Overview](#Project)
 * [Part I - Probability](#Probability)
-* [Part II - A/B Test](#A/B Test)
+* [Part II - A/B Test](#A/B-Test)
 * [Part III - Regression](#Regression)
 * [Results](#Results)
 
